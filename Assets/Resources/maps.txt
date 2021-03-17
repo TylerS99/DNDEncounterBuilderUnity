@@ -1,0 +1,20 @@
+Underwater
+Altar
+Arena
+Cave 1
+Cave 2
+Chess
+Cave 3
+Crossroads
+Desert
+Dock
+Volcano
+Fair
+Forest
+Lake
+Airship
+Islands
+Mansion
+Ship
+Sword
+Tower
