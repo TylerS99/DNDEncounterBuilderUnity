@@ -1,5 +1,5 @@
 # DNDEncounterBuilderUnity
-This is a small project meant to demonstrate some of my skill with Unity.
+This is a small project meant to demonstrate some of my skill with Unity. It is an initiative, movement, and damage combat tracker for use as a companion to tabletop RPG's.
 
 ## How to use
 As a general rule, right clicking will back out of what is currently being done (deselect a character, close ui, etc.).
