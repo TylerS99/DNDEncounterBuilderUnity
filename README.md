@@ -12,7 +12,7 @@ Once all characters have been added, clicking the "Next Turn" button will select
 Clicking anywhere on the ground while a character is selected will move the character as close as possible to that point within its move range (holding shift overrides move range).
 
 Clicking another character while a character is selected will move within melee range of them (hold shift for ranged attack), and open the damage ui.
-Posiitive damage is healing, and negative is damage.
+Positive damage is healing, and negative is damage.
 
 Holding shift and clicking the selected character is useful for self-healing.
 
